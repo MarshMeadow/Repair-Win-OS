@@ -1,7 +1,7 @@
 # Repair-Win-OS
 This is Code to put in the Command Prompt to repair/fix Windows.
 
-Note that you can pick one or more of these to fix your computer, not that it's not my problem if something goes wrong.
+Note that you can pick one or more of these to fix your computer, this is not all a step by step, note that it's not my problem if something goes wrong. Please contact microsoft of it gets worse, sorry if this does not help.
 
 #1 Repair Windows 10/11 using SFC:
 
