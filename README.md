@@ -37,6 +37,6 @@ DISM /Online /Cleanup-Image /RestoreHealth /Source:repairSource\install.wim
 3. Sign in using an administrator account if needed. Once the command prompt is showing, enter "rstrui.exe" at first in the Command Prompt Window and press "Enter" to continue.
 ----
 #5 Repair Windows 10/11 with AOMEI.exe (Universal):
-Go to methid 5 on this site to find out, not that I do not know if this dowload is safe so please consider what your doing. Link: https://www.ubackup.com/windows-10/repair-windows-10-using-command-prompt.html
+Go to methid 5 on this site to find out, note that I do not know if this download is safe so please consider what your doing. Link: https://www.ubackup.com/windows-10/repair-windows-10-using-command-prompt.html
 ----
 All info pulled from: https://www.ubackup.com/windows-10/repair-windows-10-using-command-prompt.html
