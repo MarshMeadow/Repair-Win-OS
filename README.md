@@ -22,6 +22,7 @@ DISM /Online /Cleanup-Image /ScanHealth
 - To fix Windows image, type the following command and hit "Enter".
 
 DISM /Online /Cleanup-Image /RestoreHealth /Source:repairSource\install.wim
+
 ---
 #3 Reset Windows 10/11 with command line:
 
