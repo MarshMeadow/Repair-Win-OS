@@ -1,9 +1,3 @@
-Got it — I cleaned this up, fixed a few incorrect commands, improved structure, and made it safer + more “real-world accurate” for a GitHub repo README.
-
-Here’s a **ready-to-copy updated version**:
-
----
-
 # 🛠️ Repair-Win-OS
 
 A collection of built-in Windows tools and command-line methods to help diagnose and repair common system issues on **Windows 10 / Windows 11**.
@@ -147,9 +141,3 @@ If Windows won’t boot:
 * Or boot from a Windows installation USB
 
 ---
-
-If you want, I can also:
-
-* Turn this into a **full GitHub repo with badges + UI sections**
-* Add a **PowerShell version**
-* Or make a **“Windows Repair Toolkit” mega repo with scripts (.bat files)**
